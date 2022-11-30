@@ -1,6 +1,6 @@
 <h3>Мини блог на React.js + Redux + Typescript</h3>
 <p>акцент был сделан на функциональную часть а для UI использовал Material Components</p>
-
+<p>backend часть на php, можно посмотреть <a href='https://github.com/mrtwon/blog-php/'>тут</a></p>
 <h3>Функционал</h3>
 <ul>
 <li>CRUD над постами (Create,Read,Update,Delete)</li>
