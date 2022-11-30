@@ -6,5 +6,8 @@
 <li>CRUD над постами (Create,Read,Update,Delete)</li>
 <li>Лайки к постам</li>
 <li>Всплывающее уведомление о действиях</li>
-<li>>Авторизация и Регестрация</li>
+<li>Авторизация и Регестрация</li>
 </ul>
+<img src='https://ibb.co/ZM4Zg42'/>
+<img src='https://ibb.co/7VL7yXJ'/>
+<img src='https://ibb.co/7rQTxmq'/>
