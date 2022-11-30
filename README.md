@@ -8,6 +8,6 @@
 <li>Всплывающее уведомление о действиях</li>
 <li>Авторизация и Регестрация</li>
 </ul>
-<img src='https://ibb.co/ZM4Zg42](https://i.ibb.co/0G4w94s/Screenshot-2.jpg'/>
+<img src='https://i.ibb.co/0G4w94s/Screenshot-2.jpg'/>
 <img src='https://i.ibb.co/q9Vb1dM/Screenshot-3.jpg'/>
 <img src='https://i.ibb.co/bNFyj9k/Screenshot-5.jpg'/>
